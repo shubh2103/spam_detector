@@ -1,0 +1,1 @@
+#Its a simple spam message classifier it can be applied to both email and message anywhere
